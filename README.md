@@ -1,6 +1,6 @@
-### Hi there 👋, I am Derrick🐯!
+![I am Derrick](https://github.com/Derrick-Tan-D-WEBDEV/Derrick-Tan-D-WEBDEV/blob/main/profile%20banner.gif)
 
-![I am GitHub Readme Generator's creator](https://github.com/Derrick-Tan-D-WEBDEV/Derrick-Tan-D-WEBDEV/blob/main/profile%20banner.gif)
+### Hi there 👋, I am Derrick🐯!
 <!--
 **Derrick-Tan-D-WEBDEV/Derrick-Tan-D-WEBDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
