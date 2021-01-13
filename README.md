@@ -1,6 +1,11 @@
 ![I am Derrick](https://github.com/Derrick-Tan-D-WEBDEV/Derrick-Tan-D-WEBDEV/blob/main/profile%20banner.gif)
 
 ### Hi there 👋, I am Derrick🐯!
+I am a web developer. I love coding and explore a lot of different stuff related to coding, such as web scraping.
+Most of my github's repositories will be open to public, so I can share my knowledge to everyone.
+Feel free to have a look on all my small projects!
+Have a nice day and happy coding!☕
+
 ## Skills & Experience
 <p float="left">
   <img src="https://www.flaticon.com/svg/vstatic/svg/1051/1051277.svg?token=exp=1610548723~hmac=a7c3a42470a0d84b1b6e6d8ece3edf68" width="100" alt="html">
