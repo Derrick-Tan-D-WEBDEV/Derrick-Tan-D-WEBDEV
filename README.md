@@ -6,7 +6,7 @@ Most of my github's repositories will be open to public, so I can share my knowl
 Feel free to have a look on all my small projects!
 Have a nice day and happy coding!☕
 
-## Skills & Experience
+## 😎Skills & Experience
 <p float="left">
   <img src="https://www.flaticon.com/svg/vstatic/svg/1051/1051277.svg?token=exp=1610548723~hmac=a7c3a42470a0d84b1b6e6d8ece3edf68" width="100" alt="html">
   <img src="https://www.flaticon.com/svg/vstatic/svg/732/732190.svg?token=exp=1610548762~hmac=e22daeff166e19803c81464914517542" width="100" alt="html">
@@ -15,7 +15,7 @@ Have a nice day and happy coding!☕
   <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="100" alt="python">
 </p>
 
-## GitHub Stats
+## 😜GitHub Stats
 [![DerrickTan's github stats](https://github-readme-stats.vercel.app/api?username=Derrick-Tan-D-WEBDEV&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Derrick-Tan-D-WEBDEV/Derrick-Tan-D-WEBDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
