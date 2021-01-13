@@ -3,8 +3,9 @@
 ### Hi there 👋, I am Derrick🐯!
 ## Skills & Experience
 <p float="left">
-<img src="https://www.flaticon.com/svg/vstatic/svg/1051/1051277.svg?token=exp=1610548723~hmac=a7c3a42470a0d84b1b6e6d8ece3edf68" width="120" alt="html">
-<img src="https://www.flaticon.com/svg/vstatic/svg/732/732190.svg?token=exp=1610548762~hmac=e22daeff166e19803c81464914517542" width="120" alt="html">
+<img src="https://www.flaticon.com/svg/vstatic/svg/1051/1051277.svg?token=exp=1610548723~hmac=a7c3a42470a0d84b1b6e6d8ece3edf68" width="100" alt="html">
+<img src="https://www.flaticon.com/svg/vstatic/svg/732/732190.svg?token=exp=1610548762~hmac=e22daeff166e19803c81464914517542" width="100" alt="html">
+<img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png" width="100" alt="js">
 </p>
 
 ## GitHub Stats
