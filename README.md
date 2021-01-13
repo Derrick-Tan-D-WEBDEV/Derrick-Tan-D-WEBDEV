@@ -16,7 +16,7 @@ Have a nice day and happy coding!☕
 </p>
 
 ## 😜GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Derrick-Tan-D-WEBDEV)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Derrick-Tan-D-WEBDEV&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![DerrickTan's github stats](https://github-readme-stats.vercel.app/api?username=Derrick-Tan-D-WEBDEV&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Derrick-Tan-D-WEBDEV/Derrick-Tan-D-WEBDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
