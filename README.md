@@ -18,6 +18,13 @@ Have a nice day and happy coding!☕
 ## 😜GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Derrick-Tan-D-WEBDEV&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![DerrickTan's github stats](https://github-readme-stats.vercel.app/api?username=Derrick-Tan-D-WEBDEV&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## 😎Game And 🎶Music
+<p float="left">
+  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
+  <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white">
+  <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
+</p>
 <!--
 **Derrick-Tan-D-WEBDEV/Derrick-Tan-D-WEBDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
