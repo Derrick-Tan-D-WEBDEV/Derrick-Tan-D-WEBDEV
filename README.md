@@ -2,7 +2,7 @@
 
 ### Hi there 👋, I am Derrick🐯!
 I am a web developer. I love coding and explore a lot of different stuff related to coding, such as web scraping.
-Most of my github's repositories will be opening to public, so I can share my knowledge to everyone.
+Most of my github's repositories will open for public, so I can share my knowledge to everyone.
 Feel free to have a look on all my small projects!
 Have a nice day and happy coding!☕
 ```javascript
