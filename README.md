@@ -5,7 +5,7 @@ I am a web developer. I love coding and explore a lot of different stuff related
 Most of my github's repositories will be open to public, so I can share my knowledge to everyone.
 Feel free to have a look on all my small projects!
 Have a nice day and happy coding!☕
-```
+```javscript
 if(derrick.status == 'work')
   return nolife();
 else
