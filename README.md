@@ -13,11 +13,11 @@ else
 ```
 ## 😎Skills & Experience
 <p float="left">
-  <img src="https://www.flaticon.com/svg/vstatic/svg/1051/1051277.svg?token=exp=1610548723~hmac=a7c3a42470a0d84b1b6e6d8ece3edf68" width="100" alt="html">
-  <img src="https://www.flaticon.com/svg/vstatic/svg/732/732190.svg?token=exp=1610586712~hmac=8f0129ad85e8bdf79c3cdf93ab034f84" width="100" alt="css">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="100" alt="js">
-  <img src="https://brandslogos.com/wp-content/uploads/thumbs/angular-logo-vector.svg" width="100" alt="angular">
-  <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="100" alt="python">
+  <img src="https://www.flaticon.com/svg/vstatic/svg/1051/1051277.svg?token=exp=1610548723~hmac=a7c3a42470a0d84b1b6e6d8ece3edf68" width="50" alt="html">
+  <img src="https://www.flaticon.com/svg/vstatic/svg/732/732190.svg?token=exp=1610586712~hmac=8f0129ad85e8bdf79c3cdf93ab034f84" width="50" alt="css">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50" alt="js">
+  <img src="https://brandslogos.com/wp-content/uploads/thumbs/angular-logo-vector.svg" width="50" alt="angular">
+  <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="50" alt="python">
 </p>
 
 ## 😜GitHub Stats
