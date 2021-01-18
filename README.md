@@ -25,7 +25,7 @@ else
 [![DerrickTan's github stats](https://github-readme-stats.vercel.app/api?username=Derrick-Tan-D-WEBDEV&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 💻Programming Stats (WakaTime)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Derrick-Tan-D-WEBDEV)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dwebdev)](https://github.com/anuraghazra/github-readme-stats)
 ## 😎Game And 🎶Music
 <p float="left">
   <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
