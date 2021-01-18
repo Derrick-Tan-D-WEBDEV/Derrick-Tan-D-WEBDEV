@@ -13,7 +13,7 @@ else
 ```
 ## 😎Skills & Experience
 <p float="left">
-  <img src="https://www.flaticon.com/svg/vstatic/svg/1051/1051277.svg?token=exp=1610548723~hmac=a7c3a42470a0d84b1b6e6d8ece3edf68" width="50" alt="html">
+  <img src="https://github.com/Derrick-Tan-D-WEBDEV/Derrick-Tan-D-WEBDEV/blob/main/html-5.png" width="50" alt="html">
   <img src="https://github.com/Derrick-Tan-D-WEBDEV/Derrick-Tan-D-WEBDEV/blob/main/css-3.png" width="50" alt="css">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50" alt="js">
   <img src="https://brandslogos.com/wp-content/uploads/thumbs/angular-logo-vector.svg" width="50" alt="angular">
