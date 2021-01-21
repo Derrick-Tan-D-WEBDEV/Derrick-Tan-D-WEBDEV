@@ -35,10 +35,14 @@ else
 </p>
 
 ## ⚡ Fun fact
-I love playing badminton<br>
-I love playing Minecraft<br>
-I love doing coding <br>
-I love spending time with my love ones!
+<ul>
+  <li>I love playing badminton</li>
+  <li>I love playing Minecraft</li>
+  <li>I love doing coding</li>
+  <li>I love playing Minecraft</li>
+  <li>I love spending time with my love ones!</li>
+</ul>
+
 
 <!--
 **Derrick-Tan-D-WEBDEV/Derrick-Tan-D-WEBDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
