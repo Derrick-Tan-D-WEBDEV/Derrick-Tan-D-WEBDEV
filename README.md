@@ -33,6 +33,13 @@ else
   <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white">
   <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
 </p>
+
+## ⚡ Fun fact
+I love playing badminton<br>
+I love playing Minecraft<br>
+I love doing coding <br>
+I love spending time with my love ones!
+
 <!--
 **Derrick-Tan-D-WEBDEV/Derrick-Tan-D-WEBDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
