@@ -24,9 +24,6 @@ else
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Derrick-Tan-D-WEBDEV&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![DerrickTan's github stats](https://github-readme-stats.vercel.app/api?username=Derrick-Tan-D-WEBDEV&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## 💻Programming Stats (WakaTime)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dwebdev&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 😎Game And 🎶Music
 <p float="left">
   <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
