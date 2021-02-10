@@ -20,8 +20,14 @@ else
   <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="50" alt="python">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/C_Sharp_logo.png/715px-C_Sharp_logo.png" width="50" alt="C#">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="50" alt="C++">
+
+</p>
+
+### Other
+<p float="left">
   <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQHG62c06wJJvg/company-logo_200_200/0/1519925284208?e=2159024400&v=beta&t=aqz3Pb6rlGnxZPKrnvj5bm9DFEaie9gSSL9SMrSBBec" width="50" alt="Galil">
 </p>
+
 
 ## 😜GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Derrick-Tan-D-WEBDEV&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<br>
