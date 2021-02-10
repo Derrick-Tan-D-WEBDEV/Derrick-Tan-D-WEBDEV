@@ -26,6 +26,7 @@ else
 ### Other
 <p float="left">
   <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQHG62c06wJJvg/company-logo_200_200/0/1519925284208?e=2159024400&v=beta&t=aqz3Pb6rlGnxZPKrnvj5bm9DFEaie9gSSL9SMrSBBec" width="50" alt="Galil">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1280px-Arduino_Logo.svg.png" width alt="Arduino">
 </p>
 
 
