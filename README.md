@@ -28,6 +28,7 @@ else
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1280px-Arduino_Logo.svg.png" width="50" alt="Arduino">
   <img src="https://github.com/Derrick-Tan-D-WEBDEV/Derrick-Tan-D-WEBDEV/blob/main/wpf.png" width="50" alt="WPF">
   <img src="https://github.com/Derrick-Tan-D-WEBDEV/Derrick-Tan-D-WEBDEV/blob/main/Microbit-logo-stacked.png" width="90" alt="microbit">
+  <img src="https://github.com/Derrick-Tan-D-WEBDEV/Derrick-Tan-D-WEBDEV/blob/main/raspi.png" width="50" alt="Raspberry Pi">
 </p>
 
 
