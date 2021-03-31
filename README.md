@@ -20,6 +20,7 @@ else
   <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="50" alt="python">
   <img src="https://github.com/Derrick-Tan-D-WEBDEV/Derrick-Tan-D-WEBDEV/blob/main/c-logo.png" width="60" alt="C#">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="50" alt="C++">
+  <img src="https://github.com/Derrick-Tan-D-WEBDEV/Derrick-Tan-D-WEBDEV/blob/main/php.png" width="60" alt="PHP">
 </p>
 
 ### Other
@@ -29,7 +30,6 @@ else
   <img src="https://github.com/Derrick-Tan-D-WEBDEV/Derrick-Tan-D-WEBDEV/blob/main/wpf.png" width="50" alt="WPF">
   <img src="https://github.com/Derrick-Tan-D-WEBDEV/Derrick-Tan-D-WEBDEV/blob/main/Microbit-logo-stacked.png" width="90" alt="microbit">
   <img src="https://github.com/Derrick-Tan-D-WEBDEV/Derrick-Tan-D-WEBDEV/blob/main/raspi.png" width="60" alt="Raspberry Pi">
-  <img src="https://github.com/Derrick-Tan-D-WEBDEV/Derrick-Tan-D-WEBDEV/blob/main/php.png" width="50" alt="PHP">
 </p>
 
 
