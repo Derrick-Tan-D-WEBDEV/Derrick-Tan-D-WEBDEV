@@ -51,7 +51,7 @@ else
   <li>I love playing Minecraft</li>
   <li>I love doing coding</li>
   <li>I love spending time with my love ones!</li>
-  <li>Etoro is my best favourite platforms for investment🤑1</li>
+  <li>Etoro is my best favourite platforms for investment🤑</li>
 </ul>
 
 
