@@ -23,10 +23,6 @@ else
   <img src="https://github.com/Derrick-Tan-D-WEBDEV/Derrick-Tan-D-WEBDEV/blob/main/php.png" width="80" alt="PHP">
 </p>
 
-### Github Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 ### Other
 <p float="left">
   <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQHG62c06wJJvg/company-logo_200_200/0/1519925284208?e=2159024400&v=beta&t=aqz3Pb6rlGnxZPKrnvj5bm9DFEaie9gSSL9SMrSBBec" width="50" alt="Galil">
@@ -37,6 +33,8 @@ else
   <img src="https://github.com/Derrick-Tan-D-WEBDEV/Derrick-Tan-D-WEBDEV/blob/main/m5stack.png" width="60" alt="M5Stack">
 </p>
 
+### Github Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=rDerrick-Tan-D-WEBDEV&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 😜GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Derrick-Tan-D-WEBDEV&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<br>
