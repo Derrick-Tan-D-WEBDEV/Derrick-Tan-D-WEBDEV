@@ -34,7 +34,7 @@ else
 </p>
 
 ### Github Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=rDerrick-Tan-D-WEBDEV&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rDerrick-Tan-D-WEBDEV)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 😜GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Derrick-Tan-D-WEBDEV&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<br>
